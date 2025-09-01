@@ -1,13 +1,13 @@
-# 🧠 Brain Tumor Classification using Deep Learning
+ Brain Tumor Classification using Deep Learning
 
 This project applies **five different classifiers** to detect and classify brain tumors from MRI images.  
 The models are trained and evaluated on a public Kaggle dataset.
-
+The best model VGG has a gardio interface where you can keep an MRI image and get the result as the tumor type or no tumor.
 ---
 
-## 📂 Dataset
+##  Dataset
 We used the **Brain Tumor MRI Dataset** available on Kaggle:  
-👉 [Brain Tumor MRI Datasets](https://www.kaggle.com/datasets/luluw8071/brain-tumor-mri-datasets)
+ [Brain Tumor MRI Datasets](https://www.kaggle.com/datasets/luluw8071/brain-tumor-mri-datasets)
 
 The dataset contains MRI images labeled by tumor type and non-tumor cases.
 
